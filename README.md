@@ -38,7 +38,7 @@ Los contenidos se agrupan de acuerdo a los bloques formativos del máster:
 
 ## 💻 Tecnologías utilizadas
 
-* R (tidyverse, ggplot2, survival, lme4, INLA, nimble)
+* R (tidyverse, ggplot2, survival, lme4, WinBUGS, Nimble)
 
 * SQL (consultas, creación y gestión de bases de datos)
 
