@@ -76,3 +76,9 @@ El propósito de este repositorio es **mostrar las competencias técnicas desarr
 Por razones legales, los trabajos desarrollados en entornos privados no pueden incluirse aquí.  
 Este repositorio debe entenderse como una **muestra representativa inicial de mi capacidad técnica**, pero no como su límite.
 
+---
+
+🔒 Nota: Los proyectos completos no pueden hacerse públicos por respeto a la propiedad intelectual del máster.  
+Los proyectos completos se encuentran en un repositorio privado. Puedo mostrar ejemplos de código, análisis y metodología bajo petición profesional.
+
+
