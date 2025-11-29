@@ -34,7 +34,9 @@ Los contenidos se agrupan de acuerdo a los bloques formativos del máster:
 ## 4. Modelización avanzada
 
 * Modelos aditivos, de suavizado y mixtos
+  
 * Modelos lineales generalizados (GLM)
+  
 * Modelos jerárquicos bayesianos 
 
 
