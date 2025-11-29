@@ -57,11 +57,8 @@ Cada carpeta del repositorio puede contener varios casos de estudio. Dentro de c
 - **informes/**  
   Contiene los informes finales generados en formato **.pdf** o **.html** a partir de RMarkdown o Quarto.
 
-- **codigo/**  
-  Incluye los **scripts en R** (y, si corresponde, consultas SQL o notebooks) utilizados para el análisis.
-
-- **datos/**  
-  Contiene los conjuntos de datos empleados en el estudio. 
+- **Preproducibilidad/**  
+  Incluye los **scripts en R** (y, si corresponde, consultas SQL o notebooks) utilizados para el análisis, así como los conjuntos de datos empleados en el estudio. 
 
 > **Nota sobre datos:**  
 > Algunos casos de estudio se han desarrollado con datos procedentes de entornos reales.  
