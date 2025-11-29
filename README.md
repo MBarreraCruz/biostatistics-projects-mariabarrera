@@ -23,8 +23,6 @@ Los contenidos se agrupan de acuerdo a los bloques formativos del máster:
 
 ## 3. Modelización estadística
 
-* Modelos lineales
-
 * Estadística espacial
 
 * Series temporales
