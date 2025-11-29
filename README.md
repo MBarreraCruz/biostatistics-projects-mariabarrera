@@ -17,8 +17,6 @@ Los contenidos se agrupan de acuerdo a los bloques formativos del máster:
 
 ## 2. Estadística aplicada
 
-* Inferencia estadística y bayesiana
-
 * Minería de datos
 
 * Diseño y planificación de la investigación y experimentación
