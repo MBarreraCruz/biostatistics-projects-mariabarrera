@@ -68,8 +68,7 @@ Cada carpeta del repositorio puede contener varios casos de estudio. Dentro de c
 
 ## 🎯 **Objetivo del repositorio**
 
-El propósito de este repositorio es **mostrar las competencias técnicas desarrolladas durante el Máster en Bioestadística**, mediante un portfolio de proyectos aplicados.  
-Su contenido pretende servir como **recurso útil para estudiantes y profesionales** del ámbito estadístico y biomédico.
+El propósito de este repositorio es **mostrar las competencias técnicas desarrolladas durante el Máster en Bioestadística**, mediante un portfolio de proyectos aplicados. 
 
 ---
 
