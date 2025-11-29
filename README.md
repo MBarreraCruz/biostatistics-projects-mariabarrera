@@ -52,19 +52,11 @@ Los contenidos se agrupan de acuerdo a los bloques formativos del máster:
 
 ## 📁 Contenido de cada proyecto
 
-* Cada carpeta puede incluir:
+Cada carpeta incluye:
 
-* Scripts en R
+* Informes. En esta carpeta se encuentran tanto los informes finales compilados en .pdf o .html como el código fuente.
 
-* Consultas SQL
-
-* Informes analíticoscompilados en PDF o HTML
-
-* Notebooks reproducibles
-
-* Visualizaciones, diagnósticos y modelos ajustados
-
-* Datos simulados o anonimizados
+* Datos.
 
 ## 🎯 **Objetivo del repositorio**
 
