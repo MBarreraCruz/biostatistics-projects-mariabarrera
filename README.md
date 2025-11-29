@@ -52,11 +52,22 @@ Los contenidos se agrupan de acuerdo a los bloques formativos del máster:
 
 ## 📁 Contenido de cada proyecto
 
-Cada carpeta incluye:
+Cada carpeta del repositorio puede contener varios casos de estudio. Dentro de cada caso de estudio se incluyen las siguientes subcarpetas:
 
-* Informes. En esta carpeta se encuentran tanto los informes finales compilados en .pdf o .html como el código fuente.
+- **informes/**  
+  Contiene los informes finales generados en formato **.pdf** o **.html** a partir de RMarkdown o Quarto.
 
-* Datos.
+- **codigo/**  
+  Incluye los **scripts en R** (y, si corresponde, consultas SQL o notebooks) utilizados para el análisis.
+
+- **datos/**  
+  Contiene los conjuntos de datos empleados en el estudio. 
+
+> **Nota sobre datos:**  
+> Algunos casos de estudio se han desarrollado con datos procedentes de entornos reales.  
+> Aunque dichos datos han sido anonimizados para uso académico, **no se incluyen en este repositorio** por motivos de confidencialidad.  
+> Cuando esto ocurre, la carpeta **datos/** se deja vacía o incluye únicamente una descripción del origen del dataset.
+
 
 ## 🎯 **Objetivo del repositorio**
 
